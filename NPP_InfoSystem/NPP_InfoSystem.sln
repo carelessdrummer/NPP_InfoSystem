@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPP_InfoSystem.BusinessLogi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPP_InfoSystem.WebUI", "NPP_InfoSystem.WebUI\NPP_InfoSystem.WebUI.csproj", "{9B15717D-3BF3-4DF7-B7DF-A60E04F706AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPP_InfoSystem.Tests", "NPP_InfoSystem.Tests\NPP_InfoSystem.Tests.csproj", "{53E5D445-FDCD-431E-B944-C18E4E3E80B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{9B15717D-3BF3-4DF7-B7DF-A60E04F706AE}.Release|x64.Build.0 = Release|Any CPU
 		{9B15717D-3BF3-4DF7-B7DF-A60E04F706AE}.Release|x86.ActiveCfg = Release|Any CPU
 		{9B15717D-3BF3-4DF7-B7DF-A60E04F706AE}.Release|x86.Build.0 = Release|Any CPU
+		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Debug|x64.Build.0 = Debug|Any CPU
+		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Debug|x86.Build.0 = Debug|Any CPU
+		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Release|x64.ActiveCfg = Release|Any CPU
+		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Release|x64.Build.0 = Release|Any CPU
+		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Release|x86.ActiveCfg = Release|Any CPU
+		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

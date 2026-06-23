@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NPP_InfoSystem.Domain\NPP_InfoSystem.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
