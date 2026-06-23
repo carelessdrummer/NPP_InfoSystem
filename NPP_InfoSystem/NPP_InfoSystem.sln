@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPP_InfoSystem.WebUI", "NPP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPP_InfoSystem.Tests", "NPP_InfoSystem.Tests\NPP_InfoSystem.Tests.csproj", "{53E5D445-FDCD-431E-B944-C18E4E3E80B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPP_InfoSystem.CCL", "NPP_InfoSystem.CCL\NPP_InfoSystem.CCL.csproj", "{F61AD765-45AE-4FE3-80B4-CF3977B000BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,18 @@ Global
 		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Release|x64.Build.0 = Release|Any CPU
 		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Release|x86.ActiveCfg = Release|Any CPU
 		{53E5D445-FDCD-431E-B944-C18E4E3E80B4}.Release|x86.Build.0 = Release|Any CPU
+		{F61AD765-45AE-4FE3-80B4-CF3977B000BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61AD765-45AE-4FE3-80B4-CF3977B000BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61AD765-45AE-4FE3-80B4-CF3977B000BD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F61AD765-45AE-4FE3-80B4-CF3977B000BD}.Debug|x64.Build.0 = Debug|Any CPU
+		{F61AD765-45AE-4FE3-80B4-CF3977B000BD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F61AD765-45AE-4FE3-80B4-CF3977B000BD}.Debug|x86.Build.0 = Debug|Any CPU
+		{F61AD765-45AE-4FE3-80B4-CF3977B000BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61AD765-45AE-4FE3-80B4-CF3977B000BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F61AD765-45AE-4FE3-80B4-CF3977B000BD}.Release|x64.ActiveCfg = Release|Any CPU
+		{F61AD765-45AE-4FE3-80B4-CF3977B000BD}.Release|x64.Build.0 = Release|Any CPU
+		{F61AD765-45AE-4FE3-80B4-CF3977B000BD}.Release|x86.ActiveCfg = Release|Any CPU
+		{F61AD765-45AE-4FE3-80B4-CF3977B000BD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

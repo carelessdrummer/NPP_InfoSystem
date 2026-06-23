@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NPP_InfoSystem.BusinessLogic\NPP_InfoSystem.BusinessLogic.csproj" />
+    <ProjectReference Include="..\NPP_InfoSystem.CCL\NPP_InfoSystem.CCL.csproj" />
     <ProjectReference Include="..\NPP_InfoSystem.DataAccess\NPP_InfoSystem.DataAccess.csproj" />
     <ProjectReference Include="..\NPP_InfoSystem.Domain\NPP_InfoSystem.Domain.csproj" />
   </ItemGroup>

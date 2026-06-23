@@ -33,5 +33,10 @@ namespace NPP_InfoSystem.DataAccess
         {
             return _context.Facilities.Find(id);
         }
+
+        public System.Collections.Generic.IEnumerable<NppFacility> GetAllFacilities()
+        {
+            return _context.Facilities.ToList();
+        }
     }
 }
